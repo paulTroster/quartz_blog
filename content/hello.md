@@ -1,0 +1,1 @@
+Hi! Welcome to the first page of this website. I strive to use this as a blog-ish website that I can host later on when going to China.
