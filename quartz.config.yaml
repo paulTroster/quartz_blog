@@ -202,13 +202,20 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: false
+    enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: paulTroster/quartz_blog
+        repoId: R_kgDOS2lu6Q
+        category: Announcements
+        categoryId: DIC_kwDOS2lu6c4DDoRY
+        mapping: pathname
+        lang: en
     layout:
       position: afterBody
       priority: 10
+      condition: not-index
   - source: github:quartz-community/footer
     enabled: false
     options:
