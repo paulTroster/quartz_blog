@@ -1,0 +1,1 @@
+DiDi Taxi is a Chinese mobility technology company, that allows users to request a taxi through a smartphone app for easy travel. Similar to the western equivalent Uber.
