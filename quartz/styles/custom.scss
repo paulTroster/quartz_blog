@@ -1,3 +1,8 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// hide the "Created with Quartz" line, keep the footer links (Subscribe, etc.)
+footer > p {
+  display: none;
+}
