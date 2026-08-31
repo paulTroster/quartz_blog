@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: troster.org
+  baseUrl: blog.troster.org
   ignorePatterns:
     - private
     - templates
@@ -217,9 +217,10 @@ plugins:
       priority: 10
       condition: not-index
   - source: github:quartz-community/footer
-    enabled: false
+    enabled: true
     options:
       links:
+        Subscribe: https://buttondown.com/troster
   - source: github:quartz-community/recent-notes
     enabled: true
     options:
