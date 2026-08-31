@@ -1,7 +1,4 @@
 ---
 title: Welcome
 ---
-
-Hi! Welcome to my digital garden. I use this as a blog-ish website.
-
-- [[hello]]
+Hi! I strive to use this as a blog-ish website to share parts of my life in my year abroad in China.
