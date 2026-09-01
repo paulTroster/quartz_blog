@@ -1,7 +1,7 @@
 ---
 tags:
   - person
-draft: true
+unlisted: true
 ---
 Friends that [[Iven]] and I made on our flight from Beijing to Nanjing.
 
