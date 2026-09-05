@@ -63,17 +63,17 @@ main {
   --color-fg-default: #2b2b2b; /* --dark */
   --color-fg-muted: #4e4e4e; /* --darkgray */
   --color-fg-subtle: #4e4e4e; /* --darkgray */
-  --color-canvas-default: #fff;
-  --color-canvas-overlay: #fff;
-  --color-canvas-inset: #f6f8fa;
-  --color-canvas-subtle: #f6f8fa;
-  --color-border-default: #d0d7de;
-  --color-border-muted: hsl(210deg 18% 87% / 100%);
-  --color-neutral-muted: rgb(175 184 193 / 20%);
-  --color-accent-fg: #0969da;
-  --color-accent-emphasis: #0969da;
-  --color-accent-muted: rgb(84 174 255 / 40%);
-  --color-accent-subtle: #ddf4ff;
+  --color-canvas-default: #faf8f8; /* --light */
+  --color-canvas-overlay: #faf8f8; /* --light */
+  --color-canvas-inset: #f0eeee;
+  --color-canvas-subtle: #e5e5e5; /* --lightgray */
+  --color-border-default: #e5e5e5; /* --lightgray */
+  --color-border-muted: rgb(184 184 184 / 30%); /* --gray */
+  --color-neutral-muted: rgb(184 184 184 / 20%); /* --gray */
+  --color-accent-fg: #284b63; /* --secondary */
+  --color-accent-emphasis: #284b63; /* --secondary */
+  --color-accent-muted: rgb(40 75 99 / 40%); /* --secondary */
+  --color-accent-subtle: rgb(143 159 169 / 15%); /* --highlight */
   --color-success-fg: #1a7f37;
   --color-attention-fg: #9a6700;
   --color-attention-muted: rgb(212 167 44 / 40%);
@@ -82,8 +82,8 @@ main {
   --color-danger-muted: rgb(255 129 130 / 40%);
   --color-danger-subtle: #ffebe9;
   --color-primer-shadow-inset: inset 0 1px 0 rgb(208 215 222 / 20%);
-  --color-scale-gray-1: #eaeef2;
-  --color-scale-blue-1: #b6e3ff;
+  --color-scale-gray-1: #e5e5e5; /* --lightgray */
+  --color-scale-blue-1: rgb(40 75 99 / 20%); /* --secondary */
 
   /*! Extensions from @primer/css/alerts/flash.scss */
   --color-social-reaction-bg-hover: var(--color-scale-gray-1);
@@ -96,4 +96,14 @@ main .pagination-loader-container {
 
 main .gsc-loading-image {
   background-image: url("https://github.githubassets.com/images/mona-loading-default.gif");
+}
+
+/* soften the default GitHub-style square edges to match the rest of the site */
+main .gsc-comment-box,
+main .gsc-comment,
+main .gsc-header,
+main .gsc-timeline-item,
+main textarea,
+main button {
+  border-radius: 8px;
 }
