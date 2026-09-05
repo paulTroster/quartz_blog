@@ -2,6 +2,7 @@
 title: arrival
 description:
 created: 2026-08-18
+published: 2026-08-16
 tags:
   - blog
   - China

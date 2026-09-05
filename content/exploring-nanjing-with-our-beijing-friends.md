@@ -2,7 +2,7 @@
 title: Exploring Nanjing with our Beijing Friends
 description:
 created: 2026-08-29
-event-date: 19.08.2026
+published: 2026-08-19
 tags:
   - blog
 draft: false
