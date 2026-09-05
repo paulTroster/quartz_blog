@@ -30,6 +30,8 @@ Me lighting my incense sticks and a big pot(?) to throw 'em in.
 
 The view right outside the Temple.
 
+---
+
 After that we went out eating. We ate a lot:
 
 ![[C1786859-9AF2-4EA3-8248-221615549D75_1_105_c.jpeg|497]]
