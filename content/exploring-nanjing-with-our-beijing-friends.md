@@ -19,12 +19,15 @@ The facility had multiple locations to pray for different kinds of wishes. As pl
 Sadly, it wasn't allowed to take pictures at most of the places. Yet, I'll share the few pictures we made.
 
 ![[IMG_0324.jpeg|313]]
+
 The main place of the Temple where one could get free incense sticks. The smoke stems from those.
 
 ![[B5A5EF05-8E0B-444B-9461-A81261A9E713_1_105_c.jpeg|243]]![[8D7F93D6-3BF7-44DB-92A4-E6E71B945EC3_1_105_c.jpeg|431]]
+
 Me lighting my incense sticks and a big pot(?) to throw 'em in.
 
 ![[912CCE67-5802-44AB-8BC2-0E25F5A50A9A_1_102_a.jpeg|308]]
+
 The view right outside the Temple.
 
 After that we went out eating. We ate a lot:
