@@ -7,11 +7,33 @@ footer > p {
   display: none;
 }
 
+// give the footer (and its subscribe button) some breathing room from whatever's above it (e.g. comments)
+footer {
+  margin-top: 3rem;
+}
+
 // prominent subscribe button on the homepage
 .subscribe-cta {
   display: inline-block;
   margin: 1rem 0 1.5rem;
   padding: 0.6rem 1.2rem;
+  border-radius: 8px;
+  background-color: var(--secondary);
+  color: var(--light);
+  font-weight: $semiBoldWeight;
+  text-decoration: none;
+  transition: opacity 0.15s ease;
+
+  &:hover {
+    opacity: 0.85;
+    color: var(--light);
+  }
+}
+
+// turn the footer links into buttons too (e.g. the mailing list link)
+footer ul a {
+  display: inline-block;
+  padding: 0.4rem 0.9rem;
   border-radius: 8px;
   background-color: var(--secondary);
   color: var(--light);

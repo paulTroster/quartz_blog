@@ -220,7 +220,7 @@ plugins:
     enabled: true
     options:
       links:
-        Subscribe: https://buttondown.com/troster
+        Join the mailing list: https://buttondown.com/troster
   - source: github:quartz-community/recent-notes
     enabled: true
     options:
